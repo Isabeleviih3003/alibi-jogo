@@ -1,0 +1,3 @@
+Alibi - Simulador de Pericia Criminal (prototipo web)
+
+Como jogar: abra o index.html em qualquer navegador (celular ou computador). Nao precisa de internet nem de instalacao.
